@@ -64,7 +64,3 @@ Small example of data analysis and visualization for coronavirus dataset
      <p>PyPI</p>
     </a></td>
   </tr>
-
-![#f03c15](plot/pic/aff_pl.png)
-![#f03c15](plot/pic/world_geo.png)
-![#f03c15](plot/pic/world_geo_aff.png)
